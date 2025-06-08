@@ -38,4 +38,4 @@ Built as a minor project at NIT Delhi, this simulator aims to make quantum compu
 Open to contributions, suggestions, or improvements!
 
 ## 📫 Contact
-Feel free to connect via [LinkedIn](#) or raise an issue.
+Feel free to connect via [LinkedIn](https://www.linkedin.com/in/RanveerRajput/) or raise an issue.
