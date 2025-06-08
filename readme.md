@@ -1,4 +1,4 @@
-# Quantum Gate Simulator 🔮💻
+![image](https://github.com/user-attachments/assets/7ee1b71e-c01a-48b1-9602-8124f5fab8ad)# Quantum Gate Simulator 🔮💻
 
 An interactive Python-based simulator that visualizes quantum gates, Bloch Spheres, and quantum circuits using Qiskit, Matplotlib, and Tkinter.
 
@@ -28,6 +28,8 @@ pip install -r requirements.txt
 ## 🚀 How to Run
 python "Quantum Gate Simulator.py"
 
+## Demo Video
+https://youtu.be/qY5FsyAxFlo
 
 ## 📚 Background
 Built as a minor project at NIT Delhi, this simulator aims to make quantum computing concepts more interactive for students.
